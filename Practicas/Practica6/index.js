@@ -31,7 +31,7 @@ async function findAllData(client) {
 }
 
 async function main() {
-    const uri = "mongodb+srv://danielasanchezayala12_db_user:xYsf2Zu3D1ApNdlq@cluster0.lmvxrac.mongodb.net/?appName=Cluster0";
+    const uri = "";
 
 
     // Ya no incluimos el objeto de opciones para evitar el MongoParseError
